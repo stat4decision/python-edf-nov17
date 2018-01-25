@@ -10,22 +10,22 @@ Pour utliser les notebooks, veuillez installer Anaconda pour python 3.
 
 ## Organisation des notebooks
 
-[Introduction à python](introduction.ipynb)
+[Introduction à python](01_introduction.ipynb)
 
-[Introduction à numpy](Numpy.ipynb)
+[Introduction à numpy](02_numpy.ipynb)
 
-[Pandas pour la préparation des données et la visualisation avec matplotlib](pandas et dataviz.ipynb)
+[La préparation des données et la visualisation](03_pandas_dataviz.ipynb)
 
 
-[Quelques rappels de la session précédente](Rappel_python_session2.ipynb)
+[Quelques rappels de la session précédente](04_rappel_python_session2.ipynb)
 
-[Le machine learning](Machine-learning.ipynb)
+[Le machine learning](05_machine_learning.ipynb)
 
-[Le deep learning](Deep-learning.ipynb)
+[Le deep learning](06_deep_learning.ipynb)
 
-[Les données textuelles](Text-minig.ipynb)
+[Les données textuelles](07_text_mining.ipynb)
 
-[Pyspark et le big data](big-data.ipynb)
+[Pyspark et le big data](08_spark_ml.ipynb)
 
 ## Auteur
 
